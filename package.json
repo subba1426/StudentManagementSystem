@@ -1,10 +1,10 @@
 {
   "name": "spring-data-rest-and-reactjs",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "Demo of ReactJS + Spring Data REST",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/spring-guides/tut-react-and-spring-data-rest.git"
+    "url": "https://github.com/subba1426/StudentManagementSystem.git"
   },
   "keywords": [
     "rest",
@@ -13,12 +13,7 @@
     "data",
     "react"
   ],
-  "author": "Greg L. Turnquist",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/spring-guides/tut-react-and-spring-data-rest/issues"
-  },
-  "homepage": "https://github.com/spring-guides/tut-react-and-spring-data-rest",
+  "homepage": "https://github.com/subba1426/StudentManagementSystem",
   "dependencies": {
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
